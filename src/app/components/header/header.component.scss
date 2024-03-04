@@ -1,0 +1,35 @@
+.dropdown-btn {
+  color: yellow;
+  padding: 16px;
+  font-size: 20px;
+  border: none;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 150px;
+  box-shadow: 5px 16px 16px 8px rgba(0, 0, 0, 0.4);
+  z-index: 1;
+}
+
+.dropdown-menu a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-menu a:hover {
+  background-color: #cccccc;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}

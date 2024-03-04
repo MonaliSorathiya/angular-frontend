@@ -1,0 +1,110 @@
+{
+  "products": [
+    {
+      "id": "10SC",
+      "name": "The Derma Co AHA-BHA Foaming Cleanser",
+      "price": 310,
+      "image": "../../assets/face_wash.jpg",
+      "description": "The cleanser penetrates deep within to unclog pores from oil and surface build-up, without drying out the skin"
+    },
+    {
+      "id": "70SC",
+      "name": "The Ordinary Glycolic Acid 7% Toning Solution, | Pack of 240ml liquid",
+      "price": 1250,
+      "image": "../../assets/toner.jpg",
+      "description": "Offers a gentle exfoliation for improved skin brightness and visible clarity."
+    },
+    {
+      "id": "45BP",
+      "name": "Plum 15% Vitamin C Face Serum | For All Skin Types | 20 ml",
+      "price": 494,
+      "image": "../../assets/serum.png",
+      "description": "Glowing, Dark Spots, Dullness, Collagen Production, Sun Damage, Hydration, Soothing"
+    },
+    {
+      "id": "89SC",
+      "name": "Cetaphil Moisturizing Lotion | 100 ml",
+      "price": 466,
+      "image": "../../assets/moisturising.jpg",
+      "description": "For All Skin Types: Non-greasy lotion with long-lasting moisturization for smooth and soft skin."
+    },
+    {
+      "id": "78SC",
+      "name": "Aqualogica Detan+ Dewy Sunscreen | 50g",
+      "price": 694,
+      "image": "../../assets/sunscreen.jpg",
+      "description": "Aqualogica Detan+ Dewy Sunscreen with Cherry Tomato & Hyaluronic Acid with SPF 50+ & PA++++ "
+    },
+    {
+      "id": "71SC",
+      "name": "mCaffeine Coffee Under Eye Cream Gel | With Cooling Massage Roller",
+      "price": 244,
+      "image": "../../assets/eyecream1.png",
+      "description": "Relieves Dark Circles, Puffiness & Fine Lines, Repair sundamage"
+    },
+    {
+      "id": "98SC",
+      "name": "Vaseline Lip Tins Rosy Lips | 17g",
+      "price": 249,
+      "image": "../../assets/lipbalm.jpg",
+      "description": "Moisturizing, Softening, Provides Hydration, Sheer Pink Tint & Infused with Vitamin E for supple,natural glossy shine"
+    },
+    {
+      "id": "90BP",
+      "name": "Maybelline New York Liquid Matte Lipstick, Long Lasting | Superstay Matte Ink, 130 Self Starter | 5ml",
+      "price": 454,
+      "image": "../../assets/lipstick.jpg",
+      "description": "Lipstick with a velvety matte finish, Lasts up to 16 hours"
+    },
+    {
+      "id": "30BP",
+      "name": "Layer'r Wottagirl Vanilla Twist Body Splash For Women | 135ml",
+      "price": 180,
+      "image": "../../assets/perfume.jpg",
+      "description": "Leaves you feel fresh and confident all throughout the day , Adds a bold and passionate look to your personality with its sensuous fragrance"
+    },
+    {
+      "id": "12SC",
+      "name": "Parachute Coconut Oil | 600 ml - Bottle",
+      "price": 219,
+      "image": "../../assets/hairoil.jpg",
+      "description": "Nothing but 100% pure coconut oil | Made with the finest hand-picked coconuts | Long lasting freshness"
+    },
+    {
+      "id": "82SC",
+      "name": "L'OREAL PROFESSIONNEL PARIS Absolut Repair Shampoo | 300ML",
+      "price": 665,
+      "image": "../../assets/shampoo.jpg",
+      "description": "Damaged & Weakend Hair | Hair Strengthening Shampoo "
+    },
+
+    {
+      "id": "91SC",
+      "name": "Love Beauty & Planet Argan Oil & Lavender Hair Mask | 200ml",
+      "price": 510,
+      "image": "../../assets/hairmask.jpg",
+      "description": "Love Beauty & Planet Argan Oil & Lavender Hair Mask for dry & frizzy hair."
+    },
+    {
+      "id": "25SC",
+      "name": "MATRIX Opti.Care Professional Shampoo | Conditioner | Hair Serum",
+      "price": 694,
+      "image": "../../assets/haircombo.jpg",
+      "description": "Professional Shea Butter enriched ultra-smoothing haircare kit for frizzy, unmanageable hair. Cleanses scalp, moisturizes and detangles hair. Tames frizz & flyaways, adds reflective shine to hair. Provides split-end protection, No Added Parabens."
+    },
+    {
+      "id": "86SC",
+      "name": "Foxtale The Diva Over Night Glow Mask | with 4% Glycolic Acid & 3% Lactic Acid | 30 Second Facial for Salon like Brightening | Clear, Smooth & Soft Skin | Men & Women-30ml",
+      "price": 387,
+      "image": "../../assets/glowmask.jpg",
+      "description": "Gives a salon-like brightening facial at home,Enhances glow by exfoliation,Protects and nourishes skin"
+    },
+    {
+      "id": "88BP",
+      "name": "Pilgrim Korean Beauty Flawless Skin Face Care Kit With Vitamin C Night Serum & Jute Kit Bag | Daily Face Wash 100 Ml, Refreshing Face Mist & Toner 100 Ml, Brightening Day Cream Spf50 100 Gm",
+      "price": 1445,
+      "image": "../../assets/pilgrim_combo.jpg",
+      "description": "100% ALCOHOL FREE & pH-BALANCED FACE TONER,GLOWING SKIN & TIGHTER PORES."
+    }
+  ]
+}

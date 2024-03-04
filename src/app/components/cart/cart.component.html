@@ -1,0 +1,24 @@
+<div class="product-cart" style="height: 100%; overflow-y: scroll;" *ngIf="cartItems && cartItems.length > 0">
+  <div class="cart-total">
+    <p><button type="button" class="btn danger" (click)="emptyCart()">Empty Cart</button></p>
+    <p><button type="button" class="btn close" (click)="emptyCart()"><i class="fa fa-close"></i></button></p>
+  </div>
+  <ul>
+    <li *ngFor="let item of cartItems">
+      <img class="card-img-top" src="{{item.image}}" alt="Card image cap">
+      {{item.name}}
+      <span>{{item.price | currency:'INR'}}</span>
+      <button type="button" class="close" aria-label="Remove Item" (click)="removeItemFromCart(item.id)">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </li>
+  </ul>
+  <div class="cart-total" style="height: 100%; overflow-y: scroll;">
+    <p><button type="button" mat-raised-button style="background-color: green; color: white;"
+        (click)="checkout()">Proceed to Checkout</button></p>
+    <p class="text-right">
+      <strong class="d-block">Total:</strong>
+      <span class="d-block">{{totalAmmount | currency:'INR'}}</span>
+    </p>
+  </div>
+</div>

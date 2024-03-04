@@ -1,0 +1,20 @@
+<app-header></app-header>
+<div class="split-view-container">
+    <div class="left">
+        <mat-tab-group>
+            <mat-tab label="Grocery & Kitchen">
+                <app-grocery-kitchen-category [groceryKitchenProducts]="groceryKitchen"></app-grocery-kitchen-category>
+            </mat-tab>
+            <mat-tab label="Snacks & Drinks">
+                <app-snacks-drinks-category [snacksDrinksProducts]="snacksDrinks"></app-snacks-drinks-category>
+            </mat-tab>
+            <mat-tab label="Beauty & Personal Care">
+                <app-beauty-personalcare-category
+                    [beautyPersonalCareProducts]="beautyPersonalCare"></app-beauty-personalcare-category>
+            </mat-tab>
+        </mat-tab-group>
+    </div>
+    <div class="right">
+        <app-cart></app-cart>
+    </div>
+</div>

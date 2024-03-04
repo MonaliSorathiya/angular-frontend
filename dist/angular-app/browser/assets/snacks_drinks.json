@@ -1,0 +1,71 @@
+{
+  "products": [
+    {
+      "id": "0005",
+      "name": "Cadbury Temptations Rum & Raisins Premium Chocolate Bar, 72 g",
+      "price": 100,
+      "image": "../../assets/temptations.jpg"
+    },
+    {
+      "id": "13",
+      "name": "Doritos Nacho Chips, Nacho Cheese Flavour, Crunchy Crispy Chips & Snacks , 56g/60g/66g, (Weight May Vary)",
+      "price": 27,
+      "image": "../../assets/doritos.jpg"
+    },
+    {
+      "id": "14",
+      "name": "Kurkure Namkeen Chips, Chilli Chatka Flavour, Crispy Spicy Chips & Snacks, 70/75g(Weight May Vary)",
+      "price": 20,
+      "image": "../../assets/kurkure.jpg"
+    },
+    {
+      "id": "0003",
+      "name": "Britannia Little Hearts, 75g",
+      "price": 28,
+      "image": "../../assets/littlehearts.jpg"
+    },
+    {
+      "id": "0004",
+      "name": "Britannia The Original Bourbon - Creme Biscuit with Chocolate | 50gm | Chocolatey Indulgence in every layer",
+      "price": 10,
+      "image": "../../assets/bourbon.jpg"
+    },
+
+    {
+      "id": "0006",
+      "name": "Britannia Rusk Toastea Premium Bake , 700gm, Brown",
+      "price": 110,
+      "image": "../../assets/rusk.jpg"
+    },
+    {
+      "id": "0012",
+      "name": "Britannia Good Day Cashew Cookies, 1000 g",
+      "price": 150,
+      "image": "../../assets/goodday.jpg"
+    },
+    {
+      "id": "0013",
+      "name": "Red Bull Energy Drink, 250 ml (4 Pack)",
+      "price": 480,
+      "image": "../../assets/redbull.jpg"
+    },
+    {
+      "id": "0014",
+      "name": "FANTA®️ Orange Flavored Cold Drink | Soft Drink with Added Orange Flavour | Delicious Orangey Flavor| Recyclable PET Bottle, 2.25 L",
+      "price": 73,
+      "image": "../../assets/fanta.jpg"
+    },
+    {
+      "id": "0015",
+      "name": "Thums Up Soft Drink PET Bottle, 2.25 L",
+      "price": 80,
+      "image": "../../assets/thumsup.jpg"
+    },
+    {
+      "id": "0016",
+      "name": "Coca-Cola Original Taste Soft Drink PET Bottle, 750 ml",
+      "price": 36,
+      "image": "../../assets/cocacola.jpg"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+    "products": [
+      {
+        "id": "83",
+        "name": "Red Label Natural Care Tea, Chai Made With 5 Ayurvedic Herbs, 1 Kg",
+        "price": 548,
+        "image": "../../assets/redlabel.jpg"
+      },
+      {
+        "id": "56",
+        "name": "NESCAFE Classic 100% Pure Instant Coffee Powder, 90g Dawn Jar",
+        "price": 330,
+        "image": "../../assets/coffee.jpg"
+      },
+      {
+        "id": "9990",
+        "name": "Kellogg’s Muesli Fruit Nut & Seeds 750g | 12-in-1 Power Breakfast | India’s No. 1 Muesli | Multigrain Breakfast Cereal",
+        "price": 409,
+        "image": "../../assets/oats.jpg"
+      },
+      {
+        "id": "654",
+        "name": "Sundrop Peanut Butter, Crunchy, 924g",
+        "price": 245,
+        "image": "../../assets/pb.jpg"
+      },
+      {
+        "id": "6532",
+        "name": "Nutella Hazelnut Spread with Cocoa, 12.35 oz / 350g",
+        "price": 351,
+        "image": "../../assets/nutella.jpg"
+      },
+      {
+        "id": "4343",
+        "name": "MAGGI 2-minute Instant Noodles, Masala Noodles with Goodness of Iron, Made with Choicest Quality Spices, Favourite Masala Taste, 70g ( Pack of 12 )",
+        "price": 160,
+        "image": "../../assets/maggi.jpg"
+      },
+      {
+        "id": "1233",
+        "name": "Godrej aer Matic Kit (Machine + 1 Refill) - Automatic Room Fresheners with Flexi Control Spray | Cool Surf Blue | 2200 Sprays Guaranteed | Lasts up to 60 days (225ml)",
+        "price": 525,
+        "image": "../../assets/freshner.jpg"
+      },
+      {
+        "id": "1237",
+        "name": "Larah by Borosil Bella Silk Series Opalware Dinner Set | 35 Pieces for Family of 6 | Microwave & Dishwasher Safe | Bone-Ash Free | Crockery Set for Dining & Gifting | Plates & Bowls | White",
+        "price": 1899,
+        "image": "../../assets/dinnerset.jpg"
+      },
+      {
+        "id": "1232",
+        "name": "DEVICE OF ESVAR STONECRAFT ...EVERY STROY IS UNIQUE EVERY HOME IS DIFFERENT..... ES Terracotta Clay Tea Cups - Set of 6, Earthen Brown, Round and Oval Mix Design - 120 ml",
+        "price": 440,
+        "image": "../../assets/cup.jpg"
+      },
+      {
+        "id": "12330",
+        "name": "CELLO Max Fresh All in One Lunch Box Set of 5 with Fabric Bag | 3 Plastic Containers with Steel Inner, 1 Pickle Box and 1 Steel Bottle | Microwave Safe | Full Meal and Easy to Carry",
+        "price": 849,
+        "image": "../../assets/lunchbox.jpg"
+      }
+
+    ]
+  }
