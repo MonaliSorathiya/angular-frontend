@@ -7,8 +7,7 @@ import { HttpClient } from '@angular/common/http';
 })
 export class AuthService {
   // baseURL: string = 'http://localhost:3000/'; // For Local
-  baseURL: string = 'http://ec2-3-108-234-199.ap-south-1.compute.amazonaws.com' // For production
-
+  baseURL: string = 'http://ec2-13-234-67-201.ap-south-1.compute.amazonaws.com' // For production
   constructor(
     private http: HttpClient,
   ) { }
