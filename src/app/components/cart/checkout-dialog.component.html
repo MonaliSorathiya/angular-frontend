@@ -6,19 +6,19 @@
           <div class="col-50">
             <h3>Billing Address</h3>
             <label for="fname"><i class="fa fa-user"></i> Full Name</label>
-            <input type="text" id="fname" name="firstname" placeholder="John M. Doe" #firstname="ngModel"
+            <input type="text" id="fname" name="firstname" placeholder="TOM JERRY" #firstname="ngModel"
               [(ngModel)]="formData.firstname" [ngClass]="{ 'is-invalid': f.submitted && firstname.errors }" required>
             <div *ngIf="f.submitted && firstname.errors" class="invalid-feedback">
               <div *ngIf="firstname.errors['required']">Name is required</div>
             </div>
             <label for="adr"><i class="fa fa-address-card-o"></i> Address</label>
-            <input type="text" id="adr" name="address" placeholder="542 W. 15th Street" #address="ngModel"
+            <input type="text" id="adr" name="address" placeholder="#711. 15th Main road, Bangalore" #address="ngModel"
               [(ngModel)]="formData.address" [ngClass]="{ 'is-invalid': f.submitted && address.errors }" required>
             <div *ngIf="f.submitted && address.errors" class="invalid-feedback">
               <div *ngIf="address.errors['required']">Address is required</div>
             </div>
             <label for="city"><i class="fa fa-institution"></i> City</label>
-            <input type="text" id="city" name="city" placeholder="New York" #city="ngModel" [(ngModel)]="formData.city"
+            <input type="text" id="city" name="city" placeholder="Bangalore" #city="ngModel" [(ngModel)]="formData.city"
               [ngClass]="{ 'is-invalid': f.submitted && city.errors }" required>
             <div *ngIf="f.submitted && city.errors" class="invalid-feedback">
               <div *ngIf="city.errors['required']">City is required</div>
@@ -26,7 +26,7 @@
             <div class="row">
               <div class="col-50">
                 <label for="state">State</label>
-                <input type="text" id="state" name="state" placeholder="NY" #state="ngModel"
+                <input type="text" id="state" name="state" placeholder="KA" #state="ngModel"
                   [(ngModel)]="formData.state" [ngClass]="{ 'is-invalid': f.submitted && state.errors }" required>
                 <div *ngIf="f.submitted && state.errors" class="invalid-feedback">
                   <div *ngIf="state.errors['required']">State is required</div>
@@ -34,7 +34,7 @@
               </div>
               <div class="col-50">
                 <label for="zip">Pincode</label>
-                <input type="text" id="zip" name="zip" placeholder="10001" #zip="ngModel" [(ngModel)]="formData.zip"
+                <input type="text" id="zip" name="zip" placeholder="100001" #zip="ngModel" [(ngModel)]="formData.zip"
                   [ngClass]="{ 'is-invalid': f.submitted && zip.errors }" required>
                 <div *ngIf="f.submitted && zip.errors" class="invalid-feedback">
                   <div *ngIf="zip.errors['required']">Pincode is required</div>
@@ -55,20 +55,20 @@
             <input type="text" id="cname" name="cardname" placeholder="John More Doe" #cardname="ngModel"
               [(ngModel)]="formData.cardname" [ngClass]="{ 'is-invalid': f.submitted && cardname.errors }" required>
             <div *ngIf="f.submitted && cardname.errors" class="invalid-feedback">
-              <div *ngIf="cardname.errors['required']">Card Name is required</div>
+              <div *ngIf="cardname.errors['required']">TOM JERRY</div>
             </div>
             <label for="ccnum">Credit card number</label>
             <input type="text" id="ccnum" name="cardnumber" placeholder="1111-2222-3333-4444" #cardnumber="ngModel"
               [(ngModel)]="formData.cardnumber" [ngClass]="{ 'is-invalid': f.submitted && cardnumber.errors }" required>
             <div *ngIf="f.submitted && cardnumber.errors" class="invalid-feedback">
-              <div *ngIf="cardnumber.errors['required']">Card Number is required</div>
+              <div *ngIf="cardnumber.errors['required']">xxxx-xxxx-xxxx-xxxx</div>
             </div>
             <!-- <label for="expmonth">Exp Month/Year</label>
             <input type="text" id="expmonth" name="expmonth" placeholder="September"> -->
             <div class="row">
               <div class="col-50">
                 <label for="expyear">Exp MM/YY</label>
-                <input type="text" id="expyearmonth" name="expyearmonth" placeholder="2018" #expyearmonth="ngModel"
+                <input type="text" id="expyearmonth" name="expyearmonth" placeholder="01/27" #expyearmonth="ngModel"
                   [(ngModel)]="formData.expyearmonth" [ngClass]="{ 'is-invalid': f.submitted && expyearmonth.errors }"
                   required>
                 <div *ngIf="f.submitted && expyearmonth.errors" class="invalid-feedback">
